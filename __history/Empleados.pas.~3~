@@ -1,0 +1,48 @@
+unit Empleados;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics,
+  Controls, Forms, uniGUITypes, uniGUIAbstractClasses,
+  uniGUIClasses, uniGUIForm, Data.DB, uniButton, uniBitBtn, uniSpeedButton,
+  uniEdit, uniLabel, uniBasicGrid, uniDBGrid, uniPanel, uniPageControl,
+  uniGUIBaseClasses;
+
+type
+  TFEmpleados = class(TUniForm)
+    UniPageControl1: TUniPageControl;
+    UniTabSheet1: TUniTabSheet;
+    UniDBGrid1: TUniDBGrid;
+    UniLabel1: TUniLabel;
+    UniEdit1: TUniEdit;
+    ubNuevo: TUniSpeedButton;
+    ubCancelar: TUniSpeedButton;
+    DataSource: TDataSource;
+    procedure ubNuevoClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+function FEmpleados: TFEmpleados;
+
+implementation
+
+{$R *.dfm}
+
+uses
+  MainModule, uniGUIApplication, DatosEmpleado, DatoEmpleados;
+
+function FEmpleados: TFEmpleados;
+begin
+  Result := TFEmpleados(UniMainModule.GetFormInstance(TFEmpleados));
+end;
+
+procedure TFEmpleados.ubNuevoClick(Sender: TObject);
+begin
+DatoEmpleados.FDatoEmpleados.ShowModal();
+end;
+
+end.

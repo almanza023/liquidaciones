@@ -1,0 +1,55 @@
+object UniForm1: TUniForm1
+  Left = 0
+  Top = 0
+  ClientHeight = 503
+  ClientWidth = 471
+  Caption = 'BUSCAR'
+  OldCreateOrder = False
+  MonitoredKeys.Keys = <>
+  PixelsPerInch = 96
+  TextHeight = 13
+  object UniDBGrid1: TUniDBGrid
+    Left = 10
+    Top = 39
+    Width = 453
+    Height = 426
+    Hint = ''
+    LoadMask.Message = 'Loading data...'
+    TabOrder = 0
+    Columns = <
+      item
+        FieldName = 'Codigo'
+        Title.Alignment = taCenter
+        Title.Caption = 'Codigo'
+        Width = 88
+      end
+      item
+        FieldName = 'Descripcion'
+        Title.Alignment = taCenter
+        Title.Caption = 'Descripcion'
+        Width = 344
+      end>
+  end
+  object UniDBMemo1: TUniDBMemo
+    Left = 8
+    Top = 432
+    Width = 453
+    Height = 63
+    Hint = ''
+    TabOrder = 1
+  end
+  object Busqueda: TUniEdit
+    Left = 8
+    Top = 8
+    Width = 453
+    Height = 25
+    Hint = ''
+    Text = ''
+    TabOrder = 2
+  end
+  object DataSource1: TDataSource
+    DataSet = UniMainModule.Query
+    Left = 320
+    Top = 176
+  end
+end

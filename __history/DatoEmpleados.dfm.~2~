@@ -1,0 +1,11 @@
+object FDatoEmpleados: TFDatoEmpleados
+  Left = 0
+  Top = 0
+  ClientHeight = 434
+  ClientWidth = 543
+  Caption = 'FDatoEmpleados'
+  OldCreateOrder = False
+  MonitoredKeys.Keys = <>
+  PixelsPerInch = 96
+  TextHeight = 13
+end

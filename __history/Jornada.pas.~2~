@@ -1,0 +1,52 @@
+unit Jornada;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics,
+  Controls, Forms, uniGUITypes, uniGUIAbstractClasses,
+  uniGUIClasses, uniGUIForm, uniBasicGrid, uniDBGrid, uniMultiItem, uniComboBox,
+  uniDateTimePicker, uniButton, uniBitBtn, uniSpeedButton, uniEdit, uniLabel,
+  uniPanel, uniPageControl, uniGUIBaseClasses;
+
+type
+  TFJornada = class(TUniForm)
+    UniPageControl1: TUniPageControl;
+    UniTabSheet1: TUniTabSheet;
+    UniLabel1: TUniLabel;
+    UniLabel2: TUniLabel;
+    UniEdit1: TUniEdit;
+    UniEdit2: TUniEdit;
+    UniSpeedButton1: TUniSpeedButton;
+    UniLabel3: TUniLabel;
+    UniDateTimePicker1: TUniDateTimePicker;
+    UniLabel4: TUniLabel;
+    UniLabel5: TUniLabel;
+    UniDateTimePicker2: TUniDateTimePicker;
+    UniDateTimePicker3: TUniDateTimePicker;
+    UniLabel6: TUniLabel;
+    UniLabel7: TUniLabel;
+    UniComboBox1: TUniComboBox;
+    UniSpeedButton2: TUniSpeedButton;
+    UniDBGrid1: TUniDBGrid;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+function FJornada: TFJornada;
+
+implementation
+
+{$R *.dfm}
+
+uses
+  MainModule, uniGUIApplication;
+
+function FJornada: TFJornada;
+begin
+  Result := TFJornada(UniMainModule.GetFormInstance(TFJornada));
+end;
+
+end.

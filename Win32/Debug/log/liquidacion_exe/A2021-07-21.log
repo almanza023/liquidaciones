@@ -1,0 +1,835 @@
+Liquidacion.exe: 00000BC4: 15:43:53 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00000BC4: 15:43:53 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00000BC4: 15:43:53 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00000BC4: 15:43:53 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00000BC4: 15:46:24 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00000BC4: 15:46:24 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00000BC4: 15:46:24 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00000BC4: 15:46:24 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00000BC4: 15:46:24 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00000BC4: 15:46:24 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00000BC4: 15:46:24 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00000BC4: 15:46:24 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00000BC4: 15:46:24 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00000BC4: 15:46:24 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00000BC4: 15:46:24 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00002070: 15:46:46 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00002070: 15:46:46 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00002070: 15:46:46 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00002070: 15:46:46 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00002070: 16:12:35 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00002070: 16:12:35 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00002070: 16:12:35 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00002070: 16:12:35 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00002070: 16:12:35 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00002070: 16:12:35 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00002070: 16:12:35 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00002070: 16:12:35 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00002070: 16:12:35 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00002070: 16:12:35 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00002070: 16:12:35 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00000EA0: 16:12:40 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00000EA0: 16:12:40 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00000EA0: 16:12:40 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00000EA0: 16:12:40 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00000EA0: 16:13:29 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00000EA0: 16:13:29 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00000EA0: 16:13:30 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00000EA0: 16:13:30 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00000EA0: 16:13:30 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00000EA0: 16:13:30 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00000EA0: 16:13:30 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00000EA0: 16:13:30 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00000EA0: 16:13:30 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00000EA0: 16:13:30 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00000EA0: 16:13:30 [Terminated]:Exit Code: 0
+Liquidacion.exe: 000017E0: 16:14:52 []:>--------------------------------------------------------------<
+Liquidacion.exe: 000017E0: 16:14:52 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 000017E0: 16:14:52 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 000017E0: 16:14:52 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00000F9C: 16:14:56 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: FEbChtPznZ108A300A5 ) : Addr: $0073A616
+Liquidacion.exe: 000017E0: 16:22:16 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 000017E0: 16:22:16 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 000017E0: 16:22:17 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 000017E0: 16:22:17 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 000017E0: 16:22:17 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 000017E0: 16:22:17 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 000017E0: 16:22:17 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 000017E0: 16:22:17 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 000017E0: 16:22:17 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 000017E0: 16:22:17 []:<-------------------------------------------------------------->
+Liquidacion.exe: 000017E0: 16:22:17 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00000EDC: 16:22:28 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00000EDC: 16:22:28 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00000EDC: 16:22:28 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00000EDC: 16:22:28 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00001D5C: 16:22:32 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: mhZf6snPIP108A3030A ) : Addr: $0073A616
+Liquidacion.exe: 00000EDC: 16:23:00 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00000EDC: 16:23:00 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00000EDC: 16:23:01 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00000EDC: 16:23:01 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00000EDC: 16:23:01 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00000EDC: 16:23:01 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00000EDC: 16:23:01 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00000EDC: 16:23:01 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00000EDC: 16:23:01 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00000EDC: 16:23:01 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00000EDC: 16:23:01 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00000BEC: 16:23:02 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00000BEC: 16:23:02 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00000BEC: 16:23:02 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00000BEC: 16:23:02 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00002678: 16:23:13 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 5mDNu6FeuP108A30348 ) : Addr: $0073A616
+Liquidacion.exe: 00000BEC: 16:23:35 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00000BEC: 16:23:35 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00000BEC: 16:23:36 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00000BEC: 16:23:36 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00000BEC: 16:23:36 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00000BEC: 16:23:36 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00000BEC: 16:23:36 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00000BEC: 16:23:36 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00000BEC: 16:23:36 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00000BEC: 16:23:36 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00000BEC: 16:23:36 [Terminated]:Exit Code: 0
+Liquidacion.exe: 000017A0: 16:23:39 []:>--------------------------------------------------------------<
+Liquidacion.exe: 000017A0: 16:23:39 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 000017A0: 16:23:39 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 000017A0: 16:23:39 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 000017A0: 16:24:05 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 000017A0: 16:24:05 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 000017A0: 16:24:06 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 000017A0: 16:24:06 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 000017A0: 16:24:06 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 000017A0: 16:24:06 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 000017A0: 16:24:06 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 000017A0: 16:24:06 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 000017A0: 16:24:06 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 000017A0: 16:24:06 []:<-------------------------------------------------------------->
+Liquidacion.exe: 000017A0: 16:24:06 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00001978: 16:24:09 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00001978: 16:24:09 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00001978: 16:24:09 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00001978: 16:24:09 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00001978: 16:24:58 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00001978: 16:24:58 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00001978: 16:24:58 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00001978: 16:24:58 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00001978: 16:24:58 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00001978: 16:24:58 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00001978: 16:24:58 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00001978: 16:24:58 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00001978: 16:24:59 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00001978: 16:24:59 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00001978: 16:24:59 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00001DD8: 16:25:01 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00001DD8: 16:25:01 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00001DD8: 16:25:01 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00001DD8: 16:25:01 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00001DD8: 16:25:49 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00001DD8: 16:25:49 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00001DD8: 16:25:50 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00001DD8: 16:25:50 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00001DD8: 16:25:50 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00001DD8: 16:25:50 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00001DD8: 16:25:50 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00001DD8: 16:25:50 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00001DD8: 16:25:50 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00001DD8: 16:25:50 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00001DD8: 16:25:50 [Terminated]:Exit Code: 0
+Liquidacion.exe: 000026C0: 16:25:53 []:>--------------------------------------------------------------<
+Liquidacion.exe: 000026C0: 16:25:53 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 000026C0: 16:25:53 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 000026C0: 16:25:53 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 000026C0: 16:26:25 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 000026C0: 16:26:25 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 000026C0: 16:26:26 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 000026C0: 16:26:26 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 000026C0: 16:26:26 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 000026C0: 16:26:26 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 000026C0: 16:26:26 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 000026C0: 16:26:26 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 000026C0: 16:26:26 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 000026C0: 16:26:26 []:<-------------------------------------------------------------->
+Liquidacion.exe: 000026C0: 16:26:26 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00000570: 16:26:27 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00000570: 16:26:27 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00000570: 16:26:27 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00000570: 16:26:27 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 000004CC: 16:26:32 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: eXzrqym1m8108A3043D ) : Addr: $0073A616
+Liquidacion.exe: 00000570: 16:27:11 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00000570: 16:27:11 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00000570: 16:27:12 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00000570: 16:27:12 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00000570: 16:27:12 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00000570: 16:27:12 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00000570: 16:27:12 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00000570: 16:27:12 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00000570: 16:27:12 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00000570: 16:27:12 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00000570: 16:27:12 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00001708: 16:27:13 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00001708: 16:27:13 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00001708: 16:27:13 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00001708: 16:27:13 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00001708: 16:27:35 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00001708: 16:27:35 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00001708: 16:27:36 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00001708: 16:27:36 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00001708: 16:27:36 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00001708: 16:27:36 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00001708: 16:27:36 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00001708: 16:27:36 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00001708: 16:27:36 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00001708: 16:27:36 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00001708: 16:27:36 [Terminated]:Exit Code: 0
+Liquidacion.exe: 0000206C: 19:47:11 []:>--------------------------------------------------------------<
+Liquidacion.exe: 0000206C: 19:47:11 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 0000206C: 19:47:11 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 0000206C: 19:47:11 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 0000206C: 19:57:23 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 0000206C: 19:57:23 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 0000206C: 19:57:24 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 0000206C: 19:57:24 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 0000206C: 19:57:24 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 0000206C: 19:57:24 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 0000206C: 19:57:24 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 0000206C: 19:57:24 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 0000206C: 19:57:24 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 0000206C: 19:57:24 []:<-------------------------------------------------------------->
+Liquidacion.exe: 0000206C: 19:57:24 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00001420: 19:57:59 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00001420: 19:57:59 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00001420: 19:57:59 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00001420: 19:57:59 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00001420: 19:58:24 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00001420: 19:58:24 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00001420: 19:58:25 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00001420: 19:58:25 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00001420: 19:58:25 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00001420: 19:58:25 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00001420: 19:58:25 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00001420: 19:58:25 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00001420: 19:58:25 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00001420: 19:58:25 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00001420: 19:58:25 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00001880: 19:58:27 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00001880: 19:58:27 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00001880: 19:58:27 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00001880: 19:58:27 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 0000179C: 19:58:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: rKeBcX97Py108A33DC1 ) : Addr: $0073A85A
+Liquidacion.exe: 00001880: 20:03:12 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00001880: 20:03:12 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00001880: 20:03:13 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00001880: 20:03:13 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00001880: 20:03:13 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00001880: 20:03:13 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00001880: 20:03:13 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00001880: 20:03:13 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00001880: 20:03:13 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00001880: 20:03:13 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00001880: 20:03:13 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00002838: 20:03:15 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00002838: 20:03:15 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00002838: 20:03:15 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00002838: 20:03:15 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00002838: 20:04:29 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00002838: 20:04:29 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00002838: 20:04:31 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00002838: 20:04:31 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00002838: 20:04:31 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00002838: 20:04:31 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00002838: 20:04:31 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00002838: 20:04:31 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00002838: 20:04:31 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00002838: 20:04:31 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00002838: 20:04:31 [Terminated]:Exit Code: 0
+Liquidacion.exe: 000008D0: 20:04:33 []:>--------------------------------------------------------------<
+Liquidacion.exe: 000008D0: 20:04:33 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 000008D0: 20:04:33 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 000008D0: 20:04:33 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 000018FC: 20:04:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: yMVVO1Omnh108A33F2D ) : Addr: $0073A85A
+Liquidacion.exe: 000008D0: 20:14:44 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 000008D0: 20:14:44 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 000008D0: 20:14:45 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 000008D0: 20:14:45 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 000008D0: 20:14:45 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 000008D0: 20:14:45 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 000008D0: 20:14:45 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 000008D0: 20:14:45 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 000008D0: 20:14:45 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 000008D0: 20:14:45 []:<-------------------------------------------------------------->
+Liquidacion.exe: 000008D0: 20:14:45 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00002B50: 20:14:51 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00002B50: 20:14:51 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00002B50: 20:14:51 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00002B50: 20:14:51 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00000A7C: 20:15:01 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: ZBqE2IAvVh108A33F86 ) : Addr: $0078F9C6
+Liquidacion.exe: 00002B50: 20:16:29 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00002B50: 20:16:29 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00002B50: 20:16:30 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00002B50: 20:16:30 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00002B50: 20:16:30 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00002B50: 20:16:30 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00002B50: 20:16:30 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00002B50: 20:16:30 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00002B50: 20:16:30 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00002B50: 20:16:30 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00002B50: 20:16:30 [Terminated]:Exit Code: 0
+Liquidacion.exe: 0000206C: 20:16:40 []:>--------------------------------------------------------------<
+Liquidacion.exe: 0000206C: 20:16:40 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 0000206C: 20:16:40 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 0000206C: 20:16:40 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 0000216C: 20:16:44 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: IUJCmuD2Nw108A34267 ) : Addr: $0078F9C6
+Liquidacion.exe: 0000206C: 20:17:10 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 0000206C: 20:17:10 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 0000206C: 20:17:11 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 0000206C: 20:17:11 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 0000206C: 20:17:11 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 0000206C: 20:17:11 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 0000206C: 20:17:11 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 0000206C: 20:17:11 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 0000206C: 20:17:11 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 0000206C: 20:17:11 []:<-------------------------------------------------------------->
+Liquidacion.exe: 0000206C: 20:17:11 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00001DCC: 20:17:19 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00001DCC: 20:17:19 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00001DCC: 20:17:19 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00001DCC: 20:17:19 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00001C9C: 20:17:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: pvNkQpQPra108A342D0 ) : Addr: $0078F9C6
+Liquidacion.exe: 00001DCC: 20:53:34 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00001DCC: 20:53:34 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00001DCC: 20:53:35 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00001DCC: 20:53:35 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00001DCC: 20:53:35 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00001DCC: 20:53:35 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00001DCC: 20:53:35 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00001DCC: 20:53:35 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00001DCC: 20:53:35 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00001DCC: 20:53:35 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00001DCC: 20:53:35 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00000968: 20:53:38 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00000968: 20:53:38 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00000968: 20:53:38 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00000968: 20:53:38 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00000968: 20:54:40 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00000968: 20:54:40 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00000968: 20:54:41 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00000968: 20:54:41 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00000968: 20:54:41 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00000968: 20:54:41 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00000968: 20:54:41 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00000968: 20:54:41 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00000968: 20:54:41 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00000968: 20:54:41 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00000968: 20:54:41 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00000020: 20:55:13 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00000020: 20:55:13 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00000020: 20:55:13 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00000020: 20:55:13 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00001908: 20:55:16 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: WDKMQo8Ppj108A34CFC ) : Addr: $007918C6
+Liquidacion.exe: 00000020: 21:30:01 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00000020: 21:30:01 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00000020: 21:30:02 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00000020: 21:30:02 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00000020: 21:30:02 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00000020: 21:30:02 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00000020: 21:30:02 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00000020: 21:30:02 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00000020: 21:30:02 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00000020: 21:30:02 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00000020: 21:30:02 [Terminated]:Exit Code: 0
+Liquidacion.exe: 000008D4: 21:46:55 []:>--------------------------------------------------------------<
+Liquidacion.exe: 000008D4: 21:46:55 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 000008D4: 21:46:55 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 000008D4: 21:46:55 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00001860: 21:46:59 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 1n7xggj8Fb108A34D44 ) : Addr: $00791982
+Liquidacion.exe: 000008D4: 21:47:39 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 000008D4: 21:47:39 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 000008D4: 21:47:40 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 000008D4: 21:47:40 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 000008D4: 21:47:40 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 000008D4: 21:47:40 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 000008D4: 21:47:40 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 000008D4: 21:47:40 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 000008D4: 21:47:40 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 000008D4: 21:47:40 []:<-------------------------------------------------------------->
+Liquidacion.exe: 000008D4: 21:47:40 [Terminated]:Exit Code: 0
+Liquidacion.exe: 000018A4: 21:49:12 []:>--------------------------------------------------------------<
+Liquidacion.exe: 000018A4: 21:49:12 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 000018A4: 21:49:12 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 000018A4: 21:49:12 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 000023C0: 21:49:19 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 3Hex1IwyxY108A35B4C ) : Addr: $00791982
+Liquidacion.exe: 000023C0: 21:49:31 [127.0.0.1]:EConvertError : '' is not a valid integer value : Addr: $00426F2A
+Liquidacion.exe: 000023C0: 21:49:43 [127.0.0.1]:EConvertError : '' is not a valid integer value : Addr: $00426F2A
+Liquidacion.exe: 000023C0: 21:51:21 [127.0.0.1]:EMySQLNativeException : [FireDAC][Phys][MySQL] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*  from cargos Where nombre like '%sis%'' at line 1 : Addr: $008720BC
+Liquidacion.exe: 000018A4: 21:53:42 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 000018A4: 21:53:42 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 000018A4: 21:53:43 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 000018A4: 21:53:43 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 000018A4: 21:53:43 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 000018A4: 21:53:43 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 000018A4: 21:53:43 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 000018A4: 21:53:43 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 000018A4: 21:53:43 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 000018A4: 21:53:43 []:<-------------------------------------------------------------->
+Liquidacion.exe: 000018A4: 21:53:43 [Terminated]:Exit Code: 0
+Liquidacion.exe: 000021E8: 21:53:45 []:>--------------------------------------------------------------<
+Liquidacion.exe: 000021E8: 21:53:45 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 000021E8: 21:53:45 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 000021E8: 21:53:45 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00000A94: 21:54:04 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: FYROE7gCNN108A35BED ) : Addr: $00791982
+Liquidacion.exe: 00000818: 21:54:59 [127.0.0.1]:EMySQLNativeException : [FireDAC][Phys][MySQL] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*  from cargos Where nombre like '%sis%'' at line 1 : Addr: $008720BC
+Liquidacion.exe: 000021E8: 21:56:04 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 000021E8: 21:56:04 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 000021E8: 21:56:05 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 000021E8: 21:56:05 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 000021E8: 21:56:05 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 000021E8: 21:56:05 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 000021E8: 21:56:05 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 000021E8: 21:56:05 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 000021E8: 21:56:05 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 000021E8: 21:56:05 []:<-------------------------------------------------------------->
+Liquidacion.exe: 000021E8: 21:56:05 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00000E84: 22:00:28 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00000E84: 22:00:28 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00000E84: 22:00:28 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00000E84: 22:00:28 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00000F20: 22:00:58 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: SrVCNJ7m4w108A35D41 ) : Addr: $00791982
+Liquidacion.exe: 00000F20: 22:02:13 [127.0.0.1]:EConvertError : '' is not a valid integer value : Addr: $00426F2A
+Liquidacion.exe: 00000E84: 22:02:34 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00000E84: 22:02:34 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00000E84: 22:02:35 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00000E84: 22:02:35 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00000E84: 22:02:35 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00000E84: 22:02:35 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00000E84: 22:02:35 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00000E84: 22:02:35 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00000E84: 22:02:35 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00000E84: 22:02:35 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00000E84: 22:02:35 [Terminated]:Exit Code: 0
+Liquidacion.exe: 000026E4: 22:03:57 []:>--------------------------------------------------------------<
+Liquidacion.exe: 000026E4: 22:03:57 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 000026E4: 22:03:57 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 000026E4: 22:03:57 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 000010BC: 22:04:01 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: p1MwynsiUA108A35F16 ) : Addr: $00791982
+Liquidacion.exe: 000026E4: 22:04:25 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 000026E4: 22:04:25 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 000026E4: 22:04:26 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 000026E4: 22:04:26 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 000026E4: 22:04:26 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 000026E4: 22:04:26 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 000026E4: 22:04:26 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 000026E4: 22:04:26 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 000026E4: 22:04:26 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 000026E4: 22:04:26 []:<-------------------------------------------------------------->
+Liquidacion.exe: 000026E4: 22:04:26 [Terminated]:Exit Code: 0
+Liquidacion.exe: 000019B0: 22:05:36 []:>--------------------------------------------------------------<
+Liquidacion.exe: 000019B0: 22:05:36 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 000019B0: 22:05:36 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 000019B0: 22:05:36 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00001E34: 22:05:43 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: DRuVJMtVzd108A35FEA ) : Addr: $00791982
+Liquidacion.exe: 00000F44: 22:06:15 [127.0.0.1]:EMySQLNativeException : [FireDAC][Phys][MySQL] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*  from cargos Where nombre like '%sis%'' at line 1 : Addr: $008720BC
+Liquidacion.exe: 000019B0: 22:07:10 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 000019B0: 22:07:10 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 000019B0: 22:07:11 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 000019B0: 22:07:11 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 000019B0: 22:07:11 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 000019B0: 22:07:11 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 000019B0: 22:07:11 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 000019B0: 22:07:11 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 000019B0: 22:07:11 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 000019B0: 22:07:11 []:<-------------------------------------------------------------->
+Liquidacion.exe: 000019B0: 22:07:11 [Terminated]:Exit Code: 0
+Liquidacion.exe: 000017A0: 22:07:12 []:>--------------------------------------------------------------<
+Liquidacion.exe: 000017A0: 22:07:12 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 000017A0: 22:07:12 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 000017A0: 22:07:12 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 000018A0: 22:07:16 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: VRIgOIlWUW108A36060 ) : Addr: $00791982
+Liquidacion.exe: 000017A0: 22:08:38 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 000017A0: 22:08:38 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 000017A0: 22:08:39 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 000017A0: 22:08:39 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 000017A0: 22:08:39 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 000017A0: 22:08:39 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 000017A0: 22:08:39 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 000017A0: 22:08:39 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 000017A0: 22:08:39 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 000017A0: 22:08:39 []:<-------------------------------------------------------------->
+Liquidacion.exe: 000017A0: 22:08:39 [Terminated]:Exit Code: 0
+Liquidacion.exe: 000023C0: 22:08:43 []:>--------------------------------------------------------------<
+Liquidacion.exe: 000023C0: 22:08:43 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 000023C0: 22:08:43 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 000023C0: 22:08:43 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 000018C8: 22:08:45 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: FbzsqV3wRq108A360CB ) : Addr: $00791982
+Liquidacion.exe: 000023C0: 22:10:47 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 000023C0: 22:10:47 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 000023C0: 22:10:48 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 000023C0: 22:10:48 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 000023C0: 22:10:48 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 000023C0: 22:10:48 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 000023C0: 22:10:48 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 000023C0: 22:10:48 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 000023C0: 22:10:48 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 000023C0: 22:10:48 []:<-------------------------------------------------------------->
+Liquidacion.exe: 000023C0: 22:10:48 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00001C24: 22:10:51 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00001C24: 22:10:51 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00001C24: 22:10:51 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00001C24: 22:10:51 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 000014C0: 22:10:54 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Rj1ZznSbUp108A36133 ) : Addr: $00791982
+Liquidacion.exe: 00001C24: 22:11:11 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00001C24: 22:11:11 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00001C24: 22:11:13 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00001C24: 22:11:13 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00001C24: 22:11:13 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00001C24: 22:11:13 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00001C24: 22:11:13 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00001C24: 22:11:13 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00001C24: 22:11:13 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00001C24: 22:11:13 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00001C24: 22:11:13 [Terminated]:Exit Code: 0
+Liquidacion.exe: 000019EC: 22:13:19 []:>--------------------------------------------------------------<
+Liquidacion.exe: 000019EC: 22:13:19 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 000019EC: 22:13:19 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 000019EC: 22:13:19 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00001FE4: 22:13:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 5hfItPQgBI108A361C8 ) : Addr: $00791982
+Liquidacion.exe: 000019EC: 22:14:23 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 000019EC: 22:14:23 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 000019EC: 22:14:24 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 000019EC: 22:14:24 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 000019EC: 22:14:24 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 000019EC: 22:14:24 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 000019EC: 22:14:24 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 000019EC: 22:14:24 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 000019EC: 22:14:25 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 000019EC: 22:14:25 []:<-------------------------------------------------------------->
+Liquidacion.exe: 000019EC: 22:14:25 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00002284: 22:14:38 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00002284: 22:14:38 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00002284: 22:14:38 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00002284: 22:14:38 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00000E70: 22:14:46 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: O1pgiGILDI108A36274 ) : Addr: $00791982
+Liquidacion.exe: 000019CC: 22:14:52 [127.0.0.1]:EReadError : Error reading FBuscar.OnShow: Invalid property value : Addr: $004CB6CC
+Liquidacion.exe: 00002284: 22:15:46 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00002284: 22:15:46 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00002284: 22:15:47 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00002284: 22:15:47 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00002284: 22:15:47 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00002284: 22:15:47 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00002284: 22:15:47 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00002284: 22:15:47 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00002284: 22:15:47 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00002284: 22:15:47 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00002284: 22:15:47 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00001B5C: 22:15:49 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00001B5C: 22:15:49 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00001B5C: 22:15:49 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00001B5C: 22:15:49 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 000022B4: 22:15:53 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Iy9hMqHRey108A362D5 ) : Addr: $00791982
+Liquidacion.exe: 00001B5C: 22:16:13 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00001B5C: 22:16:13 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00001B5C: 22:16:14 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00001B5C: 22:16:14 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00001B5C: 22:16:14 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00001B5C: 22:16:14 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00001B5C: 22:16:14 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00001B5C: 22:16:14 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00001B5C: 22:16:14 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00001B5C: 22:16:14 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00001B5C: 22:16:14 [Terminated]:Exit Code: 0
+Liquidacion.exe: 000024E0: 22:16:55 []:>--------------------------------------------------------------<
+Liquidacion.exe: 000024E0: 22:16:55 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 000024E0: 22:16:55 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 000024E0: 22:16:55 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 000004A4: 22:16:58 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 9YlX4BiMZI108A36322 ) : Addr: $00791982
+Liquidacion.exe: 00002458: 22:17:24 [127.0.0.1]:EDatabaseError : Query: Parameter 'Est' not found : Addr: $0065E7A6
+Liquidacion.exe: 000024E0: 22:18:34 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 000024E0: 22:18:34 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 000024E0: 22:18:35 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 000024E0: 22:18:35 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 000024E0: 22:18:35 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 000024E0: 22:18:35 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 000024E0: 22:18:35 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 000024E0: 22:18:35 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 000024E0: 22:18:35 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 000024E0: 22:18:35 []:<-------------------------------------------------------------->
+Liquidacion.exe: 000024E0: 22:18:35 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00001C30: 22:18:37 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00001C30: 22:18:37 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00001C30: 22:18:37 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00001C30: 22:18:37 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00002398: 22:18:39 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: NRYhyvL3As108A3636E ) : Addr: $00791982
+Liquidacion.exe: 00002398: 22:18:48 [127.0.0.1]:EConvertError : '' is not a valid integer value : Addr: $00426F2A
+Liquidacion.exe: 00002398: 22:19:00 [127.0.0.1]:EConvertError : '' is not a valid integer value : Addr: $00426F2A
+Liquidacion.exe: 00000F38: 22:19:08 [127.0.0.1]:EDatabaseError : Query: Parameter 'Est' not found : Addr: $0065E7A6
+Liquidacion.exe: 00000F38: 22:19:11 [127.0.0.1]:EDatabaseError : Query: Parameter 'Est' not found : Addr: $0065E7A6
+Liquidacion.exe: 00001C30: 22:19:52 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00001C30: 22:19:52 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00001C30: 22:19:53 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00001C30: 22:19:53 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00001C30: 22:19:53 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00001C30: 22:19:53 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00001C30: 22:19:53 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00001C30: 22:19:53 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00001C30: 22:19:53 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00001C30: 22:19:53 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00001C30: 22:19:53 [Terminated]:Exit Code: 0
+Liquidacion.exe: 000028D4: 22:19:55 []:>--------------------------------------------------------------<
+Liquidacion.exe: 000028D4: 22:19:55 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 000028D4: 22:19:55 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 000028D4: 22:19:55 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00000D3C: 22:19:59 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: kZwlXtCiyQ108A363E2 ) : Addr: $00791982
+Liquidacion.exe: 000010BC: 22:20:23 [127.0.0.1]:EConvertError : '' is not a valid integer value : Addr: $00426F2A
+Liquidacion.exe: 000010BC: 22:20:26 [127.0.0.1]:EConvertError : '' is not a valid integer value : Addr: $00426F2A
+Liquidacion.exe: 000010BC: 22:20:30 [127.0.0.1]:EDatabaseError : Query: Parameter 'Est' not found : Addr: $0065E7A6
+Liquidacion.exe: 000010BC: 22:20:33 [127.0.0.1]:EDatabaseError : Query: Parameter 'Est' not found : Addr: $0065E7A6
+Liquidacion.exe: 000010BC: 22:20:53 [127.0.0.1]:EDatabaseError : Query: Parameter 'Est' not found : Addr: $0065E7A6
+Liquidacion.exe: 000010BC: 22:21:04 [127.0.0.1]:EDatabaseError : Query: Parameter 'Est' not found : Addr: $0065E7A6
+Liquidacion.exe: 000010BC: 22:21:07 [127.0.0.1]:EDatabaseError : Query: Parameter 'Est' not found : Addr: $0065E7A6
+Liquidacion.exe: 000028D4: 22:22:14 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 000028D4: 22:22:14 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 000028D4: 22:22:15 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 000028D4: 22:22:15 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 000028D4: 22:22:15 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 000028D4: 22:22:15 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 000028D4: 22:22:15 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 000028D4: 22:22:15 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 000028D4: 22:22:15 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 000028D4: 22:22:15 []:<-------------------------------------------------------------->
+Liquidacion.exe: 000028D4: 22:22:15 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00001660: 22:22:22 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00001660: 22:22:22 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00001660: 22:22:22 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00001660: 22:22:22 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00001600: 22:22:25 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 8Ih1LlqDlU108A3643F ) : Addr: $00791982
+Liquidacion.exe: 00001660: 22:23:18 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00001660: 22:23:18 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00001660: 22:23:19 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00001660: 22:23:19 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00001660: 22:23:19 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00001660: 22:23:19 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00001660: 22:23:19 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00001660: 22:23:19 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00001660: 22:23:19 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00001660: 22:23:19 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00001660: 22:23:19 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00002BF8: 22:25:28 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00002BF8: 22:25:28 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00002BF8: 22:25:28 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00002BF8: 22:25:28 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00002B84: 22:25:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: MqakTDe5SD108A364E8 ) : Addr: $00791982
+Liquidacion.exe: 000013AC: 22:25:48 [QueryTabla: Field 'cargo' not found-127.0.0.1]:EDatabaseError : QueryTabla: Field 'cargo' not found : Addr: $0065E7A6
+Liquidacion.exe: 000013AC: 22:26:47 [QueryTabla: Field 'cargo' not found-127.0.0.1]:EDatabaseError : QueryTabla: Field 'cargo' not found : Addr: $0065E7A6
+Liquidacion.exe: 00002174: 22:27:03 [QueryTabla: Field 'cargo' not found-127.0.0.1]:EDatabaseError : QueryTabla: Field 'cargo' not found : Addr: $0065E7A6
+Liquidacion.exe: 00002BF8: 22:27:15 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00002BF8: 22:27:15 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00002BF8: 22:27:16 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00002BF8: 22:27:16 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00002BF8: 22:27:16 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00002BF8: 22:27:16 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00002BF8: 22:27:16 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00002BF8: 22:27:16 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00002BF8: 22:27:16 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00002BF8: 22:27:16 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00002BF8: 22:27:16 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00001DC8: 22:33:19 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00001DC8: 22:33:19 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00001DC8: 22:33:19 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00001DC8: 22:33:19 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00001450: 22:33:20 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 4zboGvc5Qs108A365BF ) : Addr: $00791982
+Liquidacion.exe: 00001450: 22:33:24 [[FireDAC][Phys][MySQL] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.id as codid, c.nombre as cargo FROM empleados e INNER JOIN cargos c on c.id=e.c' at line 1-127.0.0.1]:EMySQLNativeException : [FireDAC][Phys][MySQL] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.id as codid, c.nombre as cargo FROM empleados e INNER JOIN cargos c on c.id=e.c' at line 1 : Addr: $008720BC
+Liquidacion.exe: 00001DC8: 22:34:37 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00001DC8: 22:34:37 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00001DC8: 22:34:38 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00001DC8: 22:34:38 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00001DC8: 22:34:38 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00001DC8: 22:34:38 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00001DC8: 22:34:38 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00001DC8: 22:34:38 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00001DC8: 22:34:38 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00001DC8: 22:34:38 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00001DC8: 22:34:38 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00002BE0: 22:34:46 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00002BE0: 22:34:46 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00002BE0: 22:34:46 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00002BE0: 22:34:46 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 000008D4: 22:34:57 [127.0.0.1]:EAccessViolation : Access violation at address 00000000 in module 'Liquidacion.exe'. Read of address 00000000 : Addr: $00000000
+Liquidacion.exe: 00002BE0: 22:35:31 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00002BE0: 22:35:31 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00002BE0: 22:35:32 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00002BE0: 22:35:32 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00002BE0: 22:35:32 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00002BE0: 22:35:32 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00002BE0: 22:35:32 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00002BE0: 22:35:32 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00002BE0: 22:35:32 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00002BE0: 22:35:32 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00002BE0: 22:35:32 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00001E9C: 22:35:54 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00001E9C: 22:35:54 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00001E9C: 22:35:54 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00001E9C: 22:35:54 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00001944: 22:35:56 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: bSL7Vtd2mZ108A36845 ) : Addr: $00791982
+Liquidacion.exe: 00001E9C: 22:36:34 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00001E9C: 22:36:34 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00001E9C: 22:36:36 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00001E9C: 22:36:36 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00001E9C: 22:36:36 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00001E9C: 22:36:36 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00001E9C: 22:36:36 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00001E9C: 22:36:36 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00001E9C: 22:36:36 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00001E9C: 22:36:36 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00001E9C: 22:36:36 [Terminated]:Exit Code: 0
+Liquidacion.exe: 000023B4: 22:37:25 []:>--------------------------------------------------------------<
+Liquidacion.exe: 000023B4: 22:37:25 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 000023B4: 22:37:25 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 000023B4: 22:37:25 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 0000188C: 22:37:27 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: fvcucup4T3108A36893 ) : Addr: $00791982
+Liquidacion.exe: 0000188C: 22:37:57 [127.0.0.1]:EDatabaseError : Query: Parameter 'Est' not found : Addr: $0065E7A6
+Liquidacion.exe: 000023B4: 22:38:18 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 000023B4: 22:38:18 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 000023B4: 22:38:19 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 000023B4: 22:38:19 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 000023B4: 22:38:19 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 000023B4: 22:38:19 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 000023B4: 22:38:19 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 000023B4: 22:38:19 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 000023B4: 22:38:19 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 000023B4: 22:38:19 []:<-------------------------------------------------------------->
+Liquidacion.exe: 000023B4: 22:38:19 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00000F84: 22:40:27 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00000F84: 22:40:27 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00000F84: 22:40:27 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00000F84: 22:40:27 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00002500: 22:40:27 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: G8IBJgT69y108A368FC ) : Addr: $00791982
+Liquidacion.exe: 000006E4: 22:40:37 [127.0.0.1]:EDatabaseError : Query: Parameter 'Est' not found : Addr: $0065E7A6
+Liquidacion.exe: 00000F84: 22:41:12 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00000F84: 22:41:12 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00000F84: 22:41:14 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00000F84: 22:41:14 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00000F84: 22:41:14 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00000F84: 22:41:14 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00000F84: 22:41:14 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00000F84: 22:41:14 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00000F84: 22:41:14 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00000F84: 22:41:14 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00000F84: 22:41:14 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00001B98: 22:42:58 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00001B98: 22:42:58 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00001B98: 22:42:58 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00001B98: 22:42:58 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 000020A8: 22:43:00 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: k5zikYeBXL108A369CF ) : Addr: $00791982
+Liquidacion.exe: 00000660: 22:43:08 [127.0.0.1]:EDatabaseError : Query: Parameter 'Id' not found : Addr: $0065E7A6
+Liquidacion.exe: 00001B98: 22:43:23 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00001B98: 22:43:23 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00001B98: 22:43:24 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00001B98: 22:43:24 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00001B98: 22:43:24 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00001B98: 22:43:24 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00001B98: 22:43:24 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00001B98: 22:43:24 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00001B98: 22:43:24 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00001B98: 22:43:24 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00001B98: 22:43:24 [Terminated]:Exit Code: 0
+Liquidacion.exe: 000021A4: 22:43:28 []:>--------------------------------------------------------------<
+Liquidacion.exe: 000021A4: 22:43:28 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 000021A4: 22:43:28 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 000021A4: 22:43:28 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00000AF0: 22:43:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RcXsWctmBM108A36A7E ) : Addr: $00791982
+Liquidacion.exe: 000021A4: 22:48:22 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 000021A4: 22:48:22 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 000021A4: 22:48:23 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 000021A4: 22:48:23 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 000021A4: 22:48:23 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 000021A4: 22:48:23 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 000021A4: 22:48:23 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 000021A4: 22:48:23 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 000021A4: 22:48:23 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 000021A4: 22:48:23 []:<-------------------------------------------------------------->
+Liquidacion.exe: 000021A4: 22:48:23 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00001FCC: 22:48:25 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00001FCC: 22:48:25 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00001FCC: 22:48:25 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00001FCC: 22:48:25 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00001E34: 22:48:27 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: WlqtwcxCoP108A36AA1 ) : Addr: $00791982
+Liquidacion.exe: 00001FCC: 22:50:06 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00001FCC: 22:50:06 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00001FCC: 22:50:07 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00001FCC: 22:50:07 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00001FCC: 22:50:07 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00001FCC: 22:50:08 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00001FCC: 22:50:08 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00001FCC: 22:50:08 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00001FCC: 22:50:08 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00001FCC: 22:50:08 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00001FCC: 22:50:08 [Terminated]:Exit Code: 0
+Liquidacion.exe: 000021A0: 22:50:10 []:>--------------------------------------------------------------<
+Liquidacion.exe: 000021A0: 22:50:10 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 000021A0: 22:50:10 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 000021A0: 22:50:10 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00001F14: 22:50:16 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: GVbWve8OZ1108A36BF8 ) : Addr: $00791982
+Liquidacion.exe: 000021A0: 22:51:26 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 000021A0: 22:51:26 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 000021A0: 22:51:28 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 000021A0: 22:51:28 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 000021A0: 22:51:28 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 000021A0: 22:51:28 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 000021A0: 22:51:28 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 000021A0: 22:51:28 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 000021A0: 22:51:28 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 000021A0: 22:51:28 []:<-------------------------------------------------------------->
+Liquidacion.exe: 000021A0: 22:51:28 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00001BE4: 22:53:25 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00001BE4: 22:53:25 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00001BE4: 22:53:25 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00001BE4: 22:53:25 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00002568: 22:53:27 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: SqfzwJ1r86108A36C76 ) : Addr: $00791982
+Liquidacion.exe: 00001BE4: 22:54:03 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00001BE4: 22:54:03 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00001BE4: 22:54:04 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00001BE4: 22:54:04 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00001BE4: 22:54:04 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00001BE4: 22:54:04 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00001BE4: 22:54:04 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00001BE4: 22:54:04 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00001BE4: 22:54:04 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00001BE4: 22:54:04 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00001BE4: 22:54:04 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00000B3C: 23:11:01 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00000B3C: 23:11:01 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00000B3C: 23:11:01 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00000B3C: 23:11:01 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00000544: 23:11:04 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: fyppkGrWF9108A36D53 ) : Addr: $00791982
+Liquidacion.exe: 00000B3C: 23:17:34 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00000B3C: 23:17:34 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00000B3C: 23:17:34 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00000B3C: 23:17:34 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00000B3C: 23:17:34 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00000B3C: 23:17:34 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00000B3C: 23:17:34 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00000B3C: 23:17:34 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00000B3C: 23:17:34 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00000B3C: 23:17:34 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00000B3C: 23:17:34 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00001588: 23:17:38 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00001588: 23:17:38 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00001588: 23:17:38 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00001588: 23:17:38 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00001840: 23:17:42 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: nCMFB1Yxke108A3721A ) : Addr: $00791982
+Liquidacion.exe: 00001588: 23:18:12 [TUniServerModule]:Shutting Down Server.
+Liquidacion.exe: 00001588: 23:18:12 [TUniServerModule]:Stopping HTTP Server.
+Liquidacion.exe: 00001588: 23:18:13 [TUniServerModule]:HTTP Server Stopped.
+Liquidacion.exe: 00001588: 23:18:13 [TUniGUISessionManager]:Terminating Session manager.
+Liquidacion.exe: 00001588: 23:18:13 [TUniGUISessionManager]:Stopping Cache Eraser...
+Liquidacion.exe: 00001588: 23:18:13 [TUniGUISessionManager]:Cache Eraser Stopped.
+Liquidacion.exe: 00001588: 23:18:13 [TUniGUISessionManager]:Destroying Worker Threads.
+Liquidacion.exe: 00001588: 23:18:13 [TUniGUISessionManager]:Session manager terminated.
+Liquidacion.exe: 00001588: 23:18:13 [TUniServerModule]:Server Shutdown Completed.
+Liquidacion.exe: 00001588: 23:18:13 []:<-------------------------------------------------------------->
+Liquidacion.exe: 00001588: 23:18:13 [Terminated]:Exit Code: 0
+Liquidacion.exe: 00000BFC: 23:20:10 []:>--------------------------------------------------------------<
+Liquidacion.exe: 00000BFC: 23:20:10 [TUniServerModule]:Server First Init.
+Liquidacion.exe: 00000BFC: 23:20:10 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Liquidacion.exe: 00000BFC: 23:20:10 [TUniServerModule]:HTTP Server Started on Port: 8077
+Liquidacion.exe: 00002188: 23:20:12 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: fq9GhkfTQk108A373E7 ) : Addr: $00791982

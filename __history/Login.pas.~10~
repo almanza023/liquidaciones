@@ -1,0 +1,72 @@
+unit Login;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics,
+  Controls, Forms, uniGUITypes, uniGUIAbstractClasses,
+  uniGUIClasses, uniGUIRegClasses, uniGUIForm, uniEdit, uniLabel,
+  uniGUIBaseClasses, uniPanel, uniButton, uniBitBtn, uniSpeedButton;
+
+type
+  TFLogin = class(TUniLoginForm)
+    UniPanel1: TUniPanel;
+    UniLabel1: TUniLabel;
+    EUsuario: TUniEdit;
+    UniLabel2: TUniLabel;
+    UbIngresar: TUniSpeedButton;
+    UbCancelar: TUniSpeedButton;
+    EClave: TUniEdit;
+    UniLabel3: TUniLabel;
+    procedure UbIngresarClick(Sender: TObject);
+    procedure UbCancelarClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+function FLogin: TFLogin;
+
+implementation
+
+{$R *.dfm}
+
+uses
+  uniGUIVars, MainModule, uniGUIApplication;
+
+function FLogin: TFLogin;
+begin
+  Result := TFLogin(UniMainModule.GetFormInstance(TFLogin));
+end;
+
+procedure TFLogin.UbCancelarClick(Sender: TObject);
+begin
+Close;
+end;
+
+procedure TFLogin.UbIngresarClick(Sender: TObject);
+begin
+
+if EUsuario.Text='' then
+begin
+   ShowMessage('Debe ingresar el usuario');
+   EClave.SetFocus;
+   exit;
+end;
+
+if EClave.Text='' then
+begin
+   ShowMessage('Debe ingresar una clave');
+   EClave.SetFocus;
+   exit;
+end;
+
+ModalResult := mrOk;
+CloseModal;
+end;
+
+initialization
+  RegisterAppFormClass(TFLogin);
+
+end.

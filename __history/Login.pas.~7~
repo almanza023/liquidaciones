@@ -1,0 +1,51 @@
+unit Login;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics,
+  Controls, Forms, uniGUITypes, uniGUIAbstractClasses,
+  uniGUIClasses, uniGUIRegClasses, uniGUIForm, uniEdit, uniLabel,
+  uniGUIBaseClasses, uniPanel, uniButton, uniBitBtn, uniSpeedButton;
+
+type
+  TFLogin = class(TUniLoginForm)
+    UniPanel1: TUniPanel;
+    UniLabel1: TUniLabel;
+    EUsuario: TUniEdit;
+    UniLabel2: TUniLabel;
+    UbIngresar: TUniSpeedButton;
+    UbCancelar: TUniSpeedButton;
+    EClave: TUniEdit;
+    UniLabel3: TUniLabel;
+    procedure UbIngresarClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+function FLogin: TFLogin;
+
+implementation
+
+{$R *.dfm}
+
+uses
+  uniGUIVars, MainModule, uniGUIApplication;
+
+function FLogin: TFLogin;
+begin
+  Result := TFLogin(UniMainModule.GetFormInstance(TFLogin));
+end;
+
+procedure TFLogin.UbIngresarClick(Sender: TObject);
+begin
+ModalResult := mrOk;
+CloseModal;
+end;
+
+initialization
+  RegisterAppFormClass(TFLogin);
+
+end.

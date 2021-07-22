@@ -1,0 +1,67 @@
+object UniLoginForm1: TUniLoginForm1
+  Left = 0
+  Top = 0
+  ClientHeight = 201
+  ClientWidth = 445
+  Caption = 'UniLoginForm1'
+  OldCreateOrder = False
+  MonitoredKeys.Keys = <>
+  PixelsPerInch = 96
+  TextHeight = 13
+  object UniPanel1: TUniPanel
+    Left = 0
+    Top = 0
+    Width = 445
+    Height = 201
+    Hint = ''
+    Align = alClient
+    TabOrder = 0
+    Caption = ''
+    ExplicitLeft = -8
+    ExplicitTop = 8
+    ExplicitWidth = 256
+    ExplicitHeight = 128
+    object UniLabel1: TUniLabel
+      Left = 48
+      Top = 56
+      Width = 62
+      Height = 19
+      Hint = ''
+      Caption = 'Usuario'
+      ParentFont = False
+      Font.Height = -16
+      Font.Style = [fsBold]
+      TabOrder = 1
+    end
+    object UniEdit1: TUniEdit
+      Left = 152
+      Top = 56
+      Width = 193
+      Height = 19
+      Hint = ''
+      Text = 'UniEdit1'
+      TabOrder = 2
+    end
+  end
+  object UniLabel2: TUniLabel
+    Left = 48
+    Top = 96
+    Width = 62
+    Height = 19
+    Hint = ''
+    Caption = 'Usuario'
+    ParentFont = False
+    Font.Height = -16
+    Font.Style = [fsBold]
+    TabOrder = 1
+  end
+  object UniEdit2: TUniEdit
+    Left = 152
+    Top = 96
+    Width = 193
+    Height = 19
+    Hint = ''
+    Text = 'UniEdit1'
+    TabOrder = 2
+  end
+end
