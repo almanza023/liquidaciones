@@ -91,7 +91,7 @@ object FJornada: TFJornada
       object Fecha: TUniDateTimePicker
         Left = 16
         Top = 174
-        Width = 153
+        Width = 121
         Hint = ''
         DateTime = 44398.000000000000000000
         DateFormat = 'dd/MM/yyyy'
@@ -112,7 +112,7 @@ object FJornada: TFJornada
         TabOrder = 7
       end
       object UniLabel5: TUniLabel
-        Left = 198
+        Left = 166
         Top = 152
         Width = 69
         Height = 16
@@ -123,16 +123,29 @@ object FJornada: TFJornada
         Font.Style = [fsBold]
         TabOrder = 8
       end
+      object TipoH: TUniComboBox
+        Left = 424
+        Top = 174
+        Width = 145
+        Hint = ''
+        Text = 'TipoH'
+        Items.Strings = (
+          'DIURNO'
+          'NOCTURNO')
+        ItemIndex = 0
+        TabOrder = 9
+        IconItems = <>
+      end
       object btnAgregar: TUniSpeedButton
-        Left = 493
-        Top = 163
-        Width = 100
+        Left = 575
+        Top = 160
+        Width = 122
         Height = 33
         Hint = ''
         Caption = 'AGREGAR'
         ParentColor = False
         Color = clWindow
-        TabOrder = 9
+        TabOrder = 10
         OnClick = btnAgregarClick
       end
       object ULista: TUniListBox
@@ -141,7 +154,7 @@ object FJornada: TFJornada
         Width = 531
         Height = 66
         Hint = ''
-        TabOrder = 10
+        TabOrder = 11
       end
       object UniLabel8: TUniLabel
         Left = 16
@@ -153,7 +166,7 @@ object FJornada: TFJornada
         ParentFont = False
         Font.Height = -13
         Font.Style = [fsBold]
-        TabOrder = 11
+        TabOrder = 12
       end
       object lblDia: TUniLabel
         Left = 16
@@ -166,7 +179,7 @@ object FJornada: TFJornada
         Font.Color = clMaroon
         Font.Height = -16
         Font.Style = [fsBold]
-        TabOrder = 12
+        TabOrder = 13
       end
       object lblFestivo: TUniLabel
         Left = 16
@@ -180,12 +193,12 @@ object FJornada: TFJornada
         Font.Color = clMaroon
         Font.Height = -16
         Font.Style = [fsBold]
-        TabOrder = 13
+        TabOrder = 14
       end
     end
   end
   object UniLabel6: TUniLabel
-    Left = 347
+    Left = 299
     Top = 176
     Width = 63
     Height = 16
@@ -196,8 +209,20 @@ object FJornada: TFJornada
     Font.Style = [fsBold]
     TabOrder = 1
   end
+  object UniLabel7: TUniLabel
+    Left = 428
+    Top = 176
+    Width = 78
+    Height = 16
+    Hint = ''
+    Caption = 'Tipo Horario'
+    ParentFont = False
+    Font.Height = -13
+    Font.Style = [fsBold]
+    TabOrder = 2
+  end
   object HoraF: TUniDateTimePicker
-    Left = 347
+    Left = 299
     Top = 198
     Width = 102
     Hint = ''
@@ -206,11 +231,11 @@ object FJornada: TFJornada
     TimeFormat = 'HH:mm:ss'
     Kind = tUniTime
     FirstDayOfWeek = dowLocaleDefault
-    TabOrder = 2
+    TabOrder = 3
     Color = clWhite
   end
   object HoraI: TUniDateTimePicker
-    Left = 202
+    Left = 170
     Top = 198
     Width = 103
     Hint = ''
@@ -219,7 +244,7 @@ object FJornada: TFJornada
     TimeFormat = 'HH:mm:ss'
     Kind = tUniTime
     FirstDayOfWeek = dowLocaleDefault
-    TabOrder = 3
+    TabOrder = 4
     Color = clWhite
   end
 end

@@ -114,18 +114,9 @@ begin
       begin
        hed:=FormatDateTime('hh', (HoraF.DateTime - hfjd2));
       end;
-      if isfestivo then
-      begin                   
-           rfd:='10';
-           hefd:='2';
-           ULista.Items.Add('RECARGO FESTIVO DIURNO: '+rfd);
-           ULista.Items.Add('HORAS EXTRAS FESTIVO DIURNAS: '+hed);
-           exit;
-      end;
       ULista.Items.Add('FECHA: '+DateToStr(Fecha.DateTime));
       ULista.Items.Add('HORAS ORDINADARIAS: '+ho);
       ULista.Items.Add('HORAS EXTRAS DIURNAS: '+hed);
-      
       end
       else
       begin
@@ -136,20 +127,19 @@ begin
       begin
       hed:='00';     
       end;
-      if isfestivo then
-      begin                         
-           rfd:='10';
-           hefd:='2';
-           ULista.Items.Add('RECARGO FESTIVO DIURNO: '+rfd);
-           ULista.Items.Add('HORAS EXTRAS FESTIVO DIURNAS: '+hed);
-           exit;
-      end;
       hed:=FormatDateTime('hh', (HoraF.DateTime - hfjd1));
       ULista.Items.Add('HORAS ORDINADARIAS: '+ho);
       ULista.Items.Add('HORAS EXTRAS DIURNAS: '+hed);
       end; 
 
-      
+      if isfestivo then
+      begin
+            ShowMessage('Festivo');
+           rfd:='10';
+           hefd:='2';
+           ULista.Items.Add('RECARGO FESTIVO DIURNO: '+rfd);
+           ULista.Items.Add('HORAS EXTRAS FESTIVO DIURNAS: '+hed);
+      end;
       
        
   end

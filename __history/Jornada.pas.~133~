@@ -93,7 +93,7 @@ end;
 
 procedure TFJornada.btnAgregarClick(Sender: TObject);
 var
-tipoh, dia, ho, hed, rn, rfd, hen, hefd, hefn: string;
+tipoh, dia, ho, hed, rn, hen, hefd, hefn: string;
 horasExcende: TTime;
 begin
  ULista.Items.Clear;
@@ -112,44 +112,25 @@ begin
       hed:='00';
       if HoraF.DateTime>=hfjd2 then
       begin
-       hed:=FormatDateTime('hh', (HoraF.DateTime - hfjd2));
-      end;
-      if isfestivo then
-      begin                   
-           rfd:='10';
-           hefd:='2';
-           ULista.Items.Add('RECARGO FESTIVO DIURNO: '+rfd);
-           ULista.Items.Add('HORAS EXTRAS FESTIVO DIURNAS: '+hed);
-           exit;
+       hed:=FormatDateTime('hh', (HoraF.DateTime - hfjd2)); 
       end;
       ULista.Items.Add('FECHA: '+DateToStr(Fecha.DateTime));
       ULista.Items.Add('HORAS ORDINADARIAS: '+ho);
       ULista.Items.Add('HORAS EXTRAS DIURNAS: '+hed);
-      
       end
       else
       begin
       ULista.Items.Add('FECHA: '+DateToStr(Fecha.DateTime));
       ho:=FormatDateTime('hh', (hfjd1 - HoraI.DateTime));      
       hed:=FormatDateTime('hh', (HoraF.DateTime - hfjd1 )); 
-      if StrToInt(FormatDateTime('hh', (HoraF.DateTime - HoraI.DateTime)))<10 then
+      if HoraF.DateTime<=hfjd1 then
       begin
       hed:='00';     
-      end;
-      if isfestivo then
-      begin                         
-           rfd:='10';
-           hefd:='2';
-           ULista.Items.Add('RECARGO FESTIVO DIURNO: '+rfd);
-           ULista.Items.Add('HORAS EXTRAS FESTIVO DIURNAS: '+hed);
-           exit;
       end;
       hed:=FormatDateTime('hh', (HoraF.DateTime - hfjd1));
       ULista.Items.Add('HORAS ORDINADARIAS: '+ho);
       ULista.Items.Add('HORAS EXTRAS DIURNAS: '+hed);
-      end; 
-
-      
+      end;  
       
        
   end
@@ -200,11 +181,8 @@ begin
         isfestivo:=true;
     end
     else
-    begin
-      lblFestivo.Visible:=false;
-      isfestivo:=false;
-    end;
-       
+       lblFestivo.Visible:=false;
+       isfestivo:=false;
     
 end;
 

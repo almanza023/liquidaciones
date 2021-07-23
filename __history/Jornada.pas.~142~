@@ -115,7 +115,8 @@ begin
        hed:=FormatDateTime('hh', (HoraF.DateTime - hfjd2));
       end;
       if isfestivo then
-      begin                   
+      begin
+           ShowMessage('Festivo');
            rfd:='10';
            hefd:='2';
            ULista.Items.Add('RECARGO FESTIVO DIURNO: '+rfd);
@@ -137,7 +138,8 @@ begin
       hed:='00';     
       end;
       if isfestivo then
-      begin                         
+      begin
+           ShowMessage('Festivo');
            rfd:='10';
            hefd:='2';
            ULista.Items.Add('RECARGO FESTIVO DIURNO: '+rfd);

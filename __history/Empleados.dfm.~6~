@@ -19,9 +19,17 @@ object FEmpleados: TFEmpleados
     ActivePage = UniTabSheet1
     Align = alClient
     TabOrder = 0
+    ExplicitLeft = 72
+    ExplicitTop = 8
+    ExplicitWidth = 289
+    ExplicitHeight = 193
     object UniTabSheet1: TUniTabSheet
       Hint = ''
       Caption = 'Datos'
+      ExplicitLeft = 0
+      ExplicitTop = 0
+      ExplicitWidth = 743
+      ExplicitHeight = 349
       object UniDBGrid1: TUniDBGrid
         Left = 11
         Top = 48
@@ -113,7 +121,6 @@ object FEmpleados: TFEmpleados
         ParentColor = False
         Color = clWindow
         TabOrder = 4
-        OnClick = ubCancelarClick
       end
     end
   end

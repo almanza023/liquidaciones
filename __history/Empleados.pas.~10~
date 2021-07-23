@@ -22,7 +22,6 @@ type
     procedure ubNuevoClick(Sender: TObject);
     procedure UniFormShow(Sender: TObject);
     procedure UniDBGrid1DblClick(Sender: TObject);
-    procedure ubCancelarClick(Sender: TObject);
   private
     { Private declarations }
   public
@@ -41,11 +40,6 @@ uses
 function FEmpleados: TFEmpleados;
 begin
   Result := TFEmpleados(UniMainModule.GetFormInstance(TFEmpleados));
-end;
-
-procedure TFEmpleados.ubCancelarClick(Sender: TObject);
-begin
-Close;
 end;
 
 procedure TFEmpleados.ubNuevoClick(Sender: TObject);

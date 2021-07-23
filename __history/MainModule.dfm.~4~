@@ -9,7 +9,6 @@ object UniMainModule: TUniMainModule
       'User_Name=root'
       'DriverID=MySQL')
     Connected = True
-    LoginPrompt = False
     Left = 32
     Top = 24
   end
